@@ -1,12 +1,5 @@
 """
-Travail Pratique : Algorithme de Kmeans
-Math-60607
-
-Travail présenté à monsieur Gilles Caporossi
-
-Auteurs: Mbolatina Randriamifidy (11235474)
-        Julien Deslongchamps (11250404)
-        Mustapha Bouhsen (11321500)
+Auteurs: Mustapha Bouhsen
 """
 
 import numpy as np
